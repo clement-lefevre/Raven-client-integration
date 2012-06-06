@@ -162,7 +162,7 @@ LOGGING = {
         }
     },
     'loggers': {
-	   'django': {
+       'django': {
             'handlers':['console'],
             'propagate': True,
             'level':'INFO',
